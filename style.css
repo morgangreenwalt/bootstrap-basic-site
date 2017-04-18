@@ -1,0 +1,82 @@
+h1, h2, h3 {
+	font-family: 'Oswald', 'Open Sans', serif;
+}
+
+p {
+	font-family: 'Open Sans', serif;
+	font-size: 16px;
+}
+
+body {
+	background-color: #e3e3e3;
+	position: relative;
+}
+
+
+.navbar {
+	border-radius: none;
+	background-color: #fff;
+    border-color: #fff;
+	font-size: 18px;
+	padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Oswald', 'Open Sans', serif;
+    letter-spacing: 1px;
+}
+
+.navbar-brand {
+	background-color: #327a90;
+}
+
+.navbar-inverse {
+	background-color: #fff;
+    border-color: #fff;
+}
+
+.nav-item {
+	font-size: 18px;
+}
+
+.about {
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	background-color: #fff;
+}
+
+.image {
+	margin-right: 10px;
+}
+
+.about-content {
+	float: left;
+}
+
+.portfolio-image {
+	position: relative;
+}
+
+.portfolio-title {
+	position: absolute;
+    bottom: 15px;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 300;
+    width: 350px;
+}
+
+.connect {
+	background-color: #fff;
+	padding-bottom: 20px;
+}
+
+.panel-footer {
+	background-color: #fff;
+	color: #000;
+	padding-top: 25px;
+    padding-bottom: 15px;
+	/*width: 100%;
+	bottom: 0px;
+	position: fixed;*/
+}
